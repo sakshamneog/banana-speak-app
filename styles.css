@@ -1,0 +1,24 @@
+textarea{
+    width: 50%;
+    height: 8vh;
+    display: block;
+    margin: 1 rem;
+    padding: 1 rem;
+    text-align: center;
+   
+
+}
+.btn-translate{
+    margin: 2 rem;
+    
+
+
+
+}
+#output{
+    border: 2px solid black;
+    height: 10vh;
+    width: 50%;
+    margin: 1 rem;
+    padding: 1 rem;
+}
