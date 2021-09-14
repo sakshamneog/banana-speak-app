@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
 textarea{
     width: 50%;
     height: 8vh;
@@ -5,20 +7,74 @@ textarea{
     margin: 1 rem;
     padding: 1 rem;
     text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    margin: auto;
+   
    
 
 }
-.btn-translate{
-    margin: 2 rem;
+.container-first{
+
+    text-align: center;
+    background-color: #FFB319;
+    padding:1rem;
+    font-family: 'Shadows Into Light', cursive;
+    margin-bottom: 2rem;
+    font-size: xx-large;
+}
+
+
+
+
+
+
+
+
+
+
     
 
 
 
-}
+
 #output{
     border: 2px solid black;
     height: 10vh;
     width: 50%;
     margin: 1 rem;
     padding: 1 rem;
+    margin: auto;
+}
+
+
+
+
+
+.container {
+   margin-left: 45rem;
+   margin-top: 3rem;
+}
+
+#new{
+    margin-left:43rem ;
+    margin-top: 2rem;
+    font-size: larger;
+    font-family: 'Shadows Into Light', cursive;
+   
+}
+
+.container-last{
+    text-align: center;
+    background-color: #FFB319;
+    padding:3rem;
+    font-family: 'Shadows Into Light', cursive;
+    margin-bottom: 2rem;
+    margin-top: 10rem;
+    font-size: larger;
+
+}
+#btn-translate{
+    background-color: yellow;
+    padding-top: 2rem;
+
 }
